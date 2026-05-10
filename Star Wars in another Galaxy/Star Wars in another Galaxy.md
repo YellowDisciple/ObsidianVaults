@@ -1,0 +1,2 @@
+Link to [[The Library]]
+This is the Homebrew setting for a Star Wars TTRPG campaign set in another Galaxy from the Canon Star Wars universe. Its story diverges about 6000 BBY from the Canon timeline when a Sith expedition finds a stable hyperlane route to another Galaxy.

@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "72fa6803c5ba6eb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec79b5cdc4cba271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee84a7922de893a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Bifröst Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Bifröst Project"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c20492c7ac54bdb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e988217deb7fc23b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63a7cecd7c04bd48",
+    "type": "split",
+    "children": [
+      {
+        "id": "846bf23d8ebc9e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89ba5b213df6c22e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "742e637a8c0eea35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "24d069150433ba0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70d0defb2c84c134",
+    "type": "split",
+    "children": [
+      {
+        "id": "82e8699ffdde644b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3c67aa64c4095ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Bifröst Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Bifröst Project"
+            }
+          },
+          {
+            "id": "3b035364bd1b54c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Bifröst Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Bifröst Project"
+            }
+          },
+          {
+            "id": "04d014a11e255b7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "33a838eebb87b70d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Bifröst Project.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Bifröst Project"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "ee84a7922de893a7",
+  "lastOpenFiles": [
+    "Klingon Empire (KE).md",
+    "The Bifröst Project.md",
+    "Romulen Star Empire (RSE).md",
+    "United Federation of Planets (UFP).md",
+    "The Bifrost Project.md",
+    "The Asgard Cloud.md",
+    "Table of contents.md"
+  ]
+}
