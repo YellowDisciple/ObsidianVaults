@@ -10,7 +10,7 @@ Once it's a [[Character|Character's]] Turn, they get to perform at least one Min
 
 ###### Active opposition
 ###### Action
-There are two categories of actions Major Actions and Minot Actions:
+There are two categories of actions Major Actions and Minor Actions:
 ###### Major Action
 A Major Action is an Action that takes a considerable amount of concentration or coordination. The Major Actions are:
 - Attacking - is a Major action and uses the [[Skill test#Attack|Attack]] Skill test. The Attack Action is used whenever someone or something actively tries to harm another. If the target can react they may use a [[Skill test#Defend|Defend]] skill test against the Attack. *Examples are, Shooting a Blaster, swinging a Lightsaber at someone, firing a ship's weapon system*

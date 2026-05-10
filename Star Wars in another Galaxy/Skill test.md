@@ -62,7 +62,7 @@ The Overcome action is the Skill test to see if you overcome an obstacle. Hackin
 The basic difficulty of an Overcome Skill Test is 1 or as set by an [[Skill test#Active opposition|Active opposition]] Roll.
 The three outcomes of an Overcome Skill test:
 - Failure - You fail to gain your goal or you gain your goal but suffer a guaranteed [[Skill test#Complication|Complication]] as if having rolled a 20.
-- Success - You succeed at your goal but at a minor cost. The GM will give a narrative of the minor cost or give the opposition a [[Aspect#Boost|Boost]].
+- Tie - You succeed at your goal but at a minor cost. The GM will give a narrative of the minor cost or give the opposition a [[Aspect#Boost|Boost]].
 - Success - You succeed at your goal and gain momentum for each shift above the difficulty.
   You can spend 2 Momentum to add a narratively appropriate Aspect, with a free invocation, to the result of the Overcome action.
 ###### Active opposition
