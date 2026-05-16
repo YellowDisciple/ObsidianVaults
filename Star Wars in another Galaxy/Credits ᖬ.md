@@ -1,6 +1,0 @@
-Link to [[The Library]]
-Link to the [[character sheet]]
-
-1. Ich benutze mal ᖬ für credits. Das star wars credit symbol ist nicht im unicode standard. was für ein skandal... I Propose 1ᖬ in unserem spiel ist sw10.000ᖬ in star wars money. Wir würden dann noch 0,1ᖬ tracken. Das sind dann sw1000ᖬ. Alles was weniger kostet Markieren wir mit ᖬ' was praktisch sw100ᖬ sind. Davon könnt ihr bis zu 4 items auf einmal kaufen ohne das es was kostet. Ab sw500ᖬ wird ann aufgerundet zu 0,1ᖬ. Es gibt dann noch ᖬ² was sw500ᖬ sind. Das wird dann gleich aufgerundet. Dafür könnt ihr das dann mit billigen ᖬ' items kombinieren. Erst ab einem sw1500ᖬ credit wert wird dann wieder aufgerundet zu 0,2ᖬ Klingt vielleicht ein bisschen kompliziert aber sollte eigentlich das credits tracken und einkaufen gehen vereinfachen
-    
-2. items kosten entweder: ᖬ' -> ab 5 wird es zu 0,1ᖬ, ab 15, wird es zu 0,2ᖬ, ab 25 zu 0,3ᖬ usw. ᖬ² -> aufgerundet zu 0,1ᖬ aber zwei hiervon sind auch 0,1ᖬ oder man kann es mit ᖬ' items kombinieren ohne dass man mehr zahlt oder eine Anzahl an X,Xᖬ wenn es was teureres ist
